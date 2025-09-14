@@ -8,6 +8,7 @@ and predicting the likelihood of equipment failure.
 This area has been incredibly inspiring to me.*
 
 Мои контакты:
+
 📞 +7-985-930-78-28\
 📲 <a href="https://t.me/V_Kharisov" target="_blank">Telegram </a>\
 ✉ kharisov@vildan-anastasovich.ru
