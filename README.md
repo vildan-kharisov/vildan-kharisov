@@ -1,7 +1,8 @@
 ## 
-<h1 align="center">Привет! Меня зовут Вильдан Харисов</a> 
+<h1 align="center">Привет!
+Меня зовут Вильдан Харисов</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="left">Я Инженер данных | Data Enginerer 🇷🇺</h4>
+<h3 align="left">Я Инженер данных</h3>
 
 <!--
 **vildan-kharisov/vildan-kharisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
