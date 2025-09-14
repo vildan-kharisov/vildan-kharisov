@@ -3,17 +3,17 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="left"> Меня зовут Вильдан Харисов</h1>
 <h3 align="left">Я Инженер Данных (Data Engineer)</h3>
----
+
 I found myself in the Data Science working on engineering projects
 and predicting the likelihood of equipment failure.
 This area has been incredibly inspiring to me.
 
 My contacts:
 
-📞 +7-983-238-55-06
-📲 Telegram
-💻 LinkedIn
-✉ patrakeevvalentin@gmail.com
+📞 +7-985-930-78-28\
+📲 Telegram\
+💻 LinkedIn\
+✉ kharisov@vildan-anastasovich.ru\
 <!--
 **vildan-kharisov/vildan-kharisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
