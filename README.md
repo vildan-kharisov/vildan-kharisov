@@ -10,6 +10,7 @@
 Практические и теоретические навыки закрепляю на курсах и симуляторах: Karpov Courses, Sumulative, Stepik.*
 
 <h4 align="left">Технологический стек 🛠️</h4>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Мои контакты:
 
