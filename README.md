@@ -11,9 +11,8 @@ This area has been incredibly inspiring to me.
 My contacts:
 
 📞 +7-985-930-78-28\
-📲 Telegram\
-💻 LinkedIn\
-✉ kharisov@vildan-anastasovich.ru\
+📲 <a href="https://t.me/V_Kharisov" target="_blank">Telegram </a>\
+✉ kharisov@vildan-anastasovich.ru
 <!--
 **vildan-kharisov/vildan-kharisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
