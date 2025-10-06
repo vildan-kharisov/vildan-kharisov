@@ -37,7 +37,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |-----:|-----------|-----------|
-|Тест TPC-H|<a href="https://t.me/V_Kharisov" target="_blank">Тест TPC-H </a> | Spark, Airflow, Greenplum, Clickhouse, Kafka, PostgreSQL, Kubernetes, S3, GitHub. |
+|<a href="https://t.me/V_Kharisov" target="_blank">Тест TPC-H </a> |TPC-H — это стандартный бенчмарк для тестирования производительности систем управления реляционными базами данных (RDBMS). Он состоит из набора запросов, которые используются для оценки производительности обработки запросов на чтение больших объемов данных из базы данных.| Spark, Airflow, Greenplum, Clickhouse, Kafka, PostgreSQL, Kubernetes, S3, GitHub. |
 | | |
 
 
