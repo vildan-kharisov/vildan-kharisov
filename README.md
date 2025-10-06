@@ -37,7 +37,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |-----:|-----------|-----------|
-|Тест TPC-H|<a href="https://t.me/V_Kharisov" target="_blank">Telegram </a> | Pandas Numpy |
+|Тест TPC-H|<a href="https://t.me/V_Kharisov" target="_blank">Тест TPC-H </a> | Spark, Airflow, Greenplum, Clickhouse, Kafka, PostgreSQL, Kubernetes, S3, GitHub. |
 | | |
 
 
